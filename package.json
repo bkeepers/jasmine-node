@@ -1,5 +1,6 @@
 {
   "name"          : "jasmine-node"
+, "preferGlobal"  : true
 , "version"       : "1.0.21"
 , "description"   : "DOM-less simple JavaScript BDD testing framework for Node"
 , "homepage"      : [ "http://pivotal.github.com/jasmine"
